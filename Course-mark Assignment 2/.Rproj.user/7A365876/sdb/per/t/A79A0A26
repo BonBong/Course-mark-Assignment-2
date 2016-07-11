@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Assignment 2\"\nauthor: \"Bongani Mveng\"\ndate: \"11 July 2016\"\noutput: pdf_document\n---\n\n##Hello Octocat\n\nI love Octocat. She's the coolest cat in town. \n\n![](C:\\Users\\BonGanI_2\\Pictures\\octocat.png)\n\n```{r quick_look, echo = FALSE}\ndata(anscombe)\ndim(anscombe)\ncolnames(anscombe)\nhead(anscombe)\ntail(anscombe)\nsummary(anscombe)\n```\n\n",
+    "created" : 1468249112524.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2444686424",
+    "id" : "A79A0A26",
+    "lastKnownWriteTime" : 1468251241,
+    "last_content_update" : 1468251241136,
+    "path" : "~/STATS STUFF/Course-mark Assignment 2/Course-mark Assignment 2/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
