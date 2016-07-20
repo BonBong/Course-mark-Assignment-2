@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Assignment 2\"\nauthor: \"Bongani Mveng\"\ndate: \"11 July 2016\"\noutput: github_document\n---\n\n##Hello Octocat\n\nI love Octocat. She's the coolest cat in town. \n\n![](C:\\Users\\BonGanI_2\\Pictures\\octocat.png)\n\n```{r quick_look, echo = TRUE}\ndata(anscombe)\ndim(anscombe)\ncolnames(anscombe)\nhead(anscombe)\ntail(anscombe)\nsummary(anscombe)\n```\n\n",
+    "contents" : "---\ntitle: \"Assignment 2\"\nauthor: \"Bongani Mveng\"\ndate: \"11 July 2016\"\noutput: github_document\n---\n\n##Hello Octocat\n\nI love Octocat. She's the coolest cat in town. \n\n![](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/images/octocat.png)\n\n```{r quick_look, echo = TRUE}\ndata(anscombe)\ndim(anscombe)\ncolnames(anscombe)\nhead(anscombe)\ntail(anscombe)\nsummary(anscombe)\n```\n\n",
     "created" : 1468249112524.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2358660696",
+    "hash" : "2076902643",
     "id" : "A79A0A26",
-    "lastKnownWriteTime" : 1468911586,
-    "last_content_update" : 1468911586636,
+    "lastKnownWriteTime" : 1469026209,
+    "last_content_update" : 1469026209347,
     "path" : "~/STATS STUFF/Course-mark Assignment 2/Course-mark Assignment 2/README.Rmd",
     "project_path" : "README.Rmd",
     "properties" : {
